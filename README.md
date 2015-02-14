@@ -1,0 +1,2 @@
+# STACKADT
+Implementation of stack
